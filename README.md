@@ -10,3 +10,4 @@ Ran into an issue with connecting the signal, resolved with info from [this](htt
 
 Had to setup windows ssh agent and pass: [this](https://stackoverflow.com/questions/65741816/error-connecting-to-agent-no-such-file-or-directory-adding-key-to-ssh-agent)
 
+[refreshed git merging strategies](https://graphite.dev/guides/git-rebase-vs-fast-forward)
